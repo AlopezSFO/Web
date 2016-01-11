@@ -95,3 +95,12 @@
 #cssmenu > ul > li > a:hover:after {
   background: #0D4F8B	;
 }
+
+footer {
+	text-align: center;
+
+}
+
+#intro{
+	margin: 5% 20% 20% 0%;
+}
