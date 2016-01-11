@@ -1,0 +1,35 @@
+* {
+	font-family:arial; 
+	margin:0; 
+	padding:0;}
+.logo {
+	font-size:40px; 
+	font-weight:bold;
+	color:#00a; 
+	font-style:italic;}
+
+.intro {
+	color:#777; 
+	font-style:italic; 
+	margin:10px 0;}
+
+.menu {
+	background:#00a; 
+	color:#fff; 
+	height:40px;
+	line-height:40px;
+ 	letter-spacing:1px; 
+	width:100%;}
+
+.content {
+	margin-top:10px;}
+
+.menu-padding {
+	padding-top:40px;}
+
+.content {
+	padding:10px;}
+
+.content p {
+	margin-bottom:20px;}
+
