@@ -107,6 +107,7 @@ footer {
 	font-family: Helvetica, sans-serif;
 	background-color: #0D4F8B;
 	height: 100px;
+	padding-top:1em;
 }
 
 h2 {
@@ -193,6 +194,9 @@ ul{
 	width: 250px;
 	border-radius: 10%;
 	margin-left: 18em;
+		-moz-box-shadow: 10px 10px 5px #ccc; 
+	-webkit-box-shadow: 10px 10px 5px #ccc; 
+	box-shadow: 10px 10px 5px #ccc;
 }
 
 .partners {
@@ -204,6 +208,9 @@ ul{
 	margin-top: 0%;
 	margin-bottom: 1%;
 	margin-left: 0%;
+		-moz-box-shadow: 10px 10px 5px #ccc; 
+	-webkit-box-shadow: 10px 10px 5px #ccc; 
+	box-shadow: 10px 10px 5px #ccc;
 	
 }
 
@@ -213,7 +220,9 @@ ul{
 	width: 100%;
 	border-radius: 10%;
 	border-color: white;
-
+	-moz-box-shadow: 10px 10px 5px #ccc; 
+	-webkit-box-shadow: 10px 10px 5px #ccc; 
+	box-shadow: 10px 10px 5px #ccc;
 }
 
 #ld {
@@ -223,6 +232,9 @@ ul{
 	border-radius: 2%;
 	border-color: gray;
 	border-width: 2px;
+		-moz-box-shadow: 10px 10px 5px #ccc; 
+	-webkit-box-shadow: 10px 10px 5px #ccc; 
+	box-shadow: 10px 10px 5px #ccc;
 }
 #ld2{
 	margin-left: 5em;
@@ -231,6 +243,9 @@ ul{
 	border-radius: 2%;
 	border-color: gray;
 	border-width: 2px;
+		-moz-box-shadow: 10px 10px 5px #ccc; 
+	-webkit-box-shadow: 10px 10px 5px #ccc; 
+	box-shadow: 10px 10px 5px #ccc;
 }
 #intro{
 	margin: 3% 20% 10% 20%;
