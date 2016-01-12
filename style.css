@@ -162,12 +162,30 @@ ul{
 	border-color: white;
 
 }
+
+#ld {
+	margin-left:1em;
+	height: 250px;
+	width: 300px;
+	border-radius: 2%;
+	border-color: gray;
+	border-width: 2px;
+}
+#ld2{
+	margin-left: 5em;
+	height: 250px;
+	width: 300px;
+	border-radius: 2%;
+	border-color: gray;
+	border-width: 2px;
+}
 #intro{
 	margin: 3% 20% 10% 20%;
 }
 
 #ptn{
-	margin-left: 20%;
+	margin-left: 10%;
+	margin-right: 10%;
 	margin-bottom: 10px;
 }
 
