@@ -96,6 +96,11 @@
   background: #0D4F8B	;
 }
 
+p{
+	font-family: Raleway, sans-serif;
+	font-size: 18px;
+}
+
 footer {
 	text-align: center;
 	color: white;
@@ -108,6 +113,14 @@ h2 {
 	font-family: Helvetica, sans-serif;
 	color: #0D4F8B;
 	font-weight: lighter;
+	font-size: 32px;
+}
+
+h1 {
+	font-family: Raleway, sans-serif;
+	color: #0D4F8B;
+	font-weight: lighter;
+	font-size: 24px;
 }
 
 a{
@@ -115,6 +128,18 @@ a{
 	font-weight: normal;
 	text-decoration: underline;
 	color: white;
+}
+
+ul{
+	 font-family: Raleway, sans-serif;
+
+}
+
+#life {
+	height: 250px;
+	width: 250px;
+	border-radius: 10%;
+	margin-left: 18em;
 }
 
 .partners {
