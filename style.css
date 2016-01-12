@@ -136,6 +136,35 @@ ul{
 
 }
 
+
+.vName {
+	color: #CF9212;
+	font-size: 20px;
+}
+
+#vName {
+	color: #FFFFFF;
+}
+
+.vName a {
+	text-decoration: none;
+}
+
+.logIn {
+	text-align: center;
+	margin-left: 3em;
+	margin-bottom:2em;
+}
+
+.floatleft {
+    float: left;
+}
+
+.floatright {
+    float: right;
+}
+
+
 #face{
 	height:40px;
 	width: 40px;
