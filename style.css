@@ -98,11 +98,35 @@
 
 footer {
 	text-align: center;
-
+	color: white;
+	font-family: Helvetica, sans-serif;
+	background-color: #0D4F8B;
+	height: 100px;
 }
 
+h2 {
+	font-family: Helvetica, sans-serif;
+	color: #0D4F8B;
+	font-weight: lighter;
+}
+
+a{
+	font-family: Helvetica, sans-serif;
+	font-weight: normal;
+	text-decoration: underline;
+	color: white;
+}
+
+#main{
+	margin-left: 10%;
+	height: 100%;
+	width: 100%;
+	border-radius: 10%;
+	border-color: white;
+
+}
 #intro{
-	margin: 5% 20% 20% 0%;
+	margin: 5% 20% 10% 20%;
 }
 
 #elevator-pitch {
