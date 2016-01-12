@@ -148,8 +148,9 @@ ul{
 	border-radius: 10%;
 	border: 2px solid;
 	border-color: black;
-	margin-top: 1%;
+	margin-top: 0%;
 	margin-bottom: 1%;
+	margin-left: 0%;
 	
 }
 
@@ -163,6 +164,11 @@ ul{
 }
 #intro{
 	margin: 3% 20% 10% 20%;
+}
+
+#ptn{
+	margin-left: 20%;
+	margin-bottom: 10px;
 }
 
 #elevator-pitch {
