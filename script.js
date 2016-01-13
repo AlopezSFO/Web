@@ -13,6 +13,7 @@ $(document).ready(function() {
     }
   });
 });
+
 function createCookie(name,value,email) {
 
   if (value.length < 1) {
