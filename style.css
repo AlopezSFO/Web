@@ -149,7 +149,7 @@ ul{
 
 
 .vName {
-	color: red;
+	color: #0D4F8B;
 	font-size: 20px;
 	margin-top: .5em;
 	margin-left: .3em;
@@ -160,7 +160,7 @@ ul{
 }
 
 #vName {
-	color: red;
+	color: #0D4F8B;
 	margin-top: .5em;
 	margin-left: .3em;
     padding: .5em .4em .18em .2em;
