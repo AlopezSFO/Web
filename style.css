@@ -149,16 +149,34 @@ ul{
 
 
 .vName {
-	color: #CF9212;
+	color: red;
 	font-size: 20px;
+	margin-top: .5em;
+	margin-left: .3em;
+    padding: .5em .4em .18em .2em;
+    line-height: 1.22;
+    float:left;
+    vertical-align:bottom;
 }
 
 #vName {
-	color: #FFFFFF;
+	color: red;
+	margin-top: .5em;
+	margin-left: .3em;
+    padding: .5em .4em .18em .2em;
+    line-height: 1.22;
+    float:left;
+    vertical-align:bottom;
 }
 
 .vName a {
 	text-decoration: none;
+	margin-top: .5em;
+	margin-left: .3em;
+    padding: .5em .4em .18em .2em;
+    line-height: 1.22;
+    float:left;
+    vertical-align:bottom;
 }
 
 .logIn {
@@ -226,6 +244,19 @@ ul{
     float:left;
     vertical-align:bottom;
     border:solid black;
+    border-radius: 15%;
+}
+
+
+#log{
+	height:40px;
+	width: 60px;
+	margin-top: .5em;
+	margin-left: .3em;
+    padding: .2em .4em .18em .2em;
+    line-height: 1.22;
+    float:left;
+    vertical-align:bottom;
     border-radius: 15%;
 }
 
