@@ -292,16 +292,26 @@ ul{
 }
 
 #contacts{
-	margin: 3% 20% 10% 20%;
+	margin: 2% 20% 10% 20%;
 }
 
-#email{
+#circ{
 	height: 150px;
 	width: 150px;
 	border-radius: 50%;
 			-moz-box-shadow: 10px 10px 5px #ccc; 
 	-webkit-box-shadow: 10px 10px 5px #ccc; 
 	box-shadow: 10px 10px 5px #ccc;
+}
+
+#circemail{
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+			-moz-box-shadow: 10px 10px 5px #ccc; 
+	-webkit-box-shadow: 10px 10px 5px #ccc; 
+	box-shadow: 10px 10px 5px #ccc;
+	margin-left: 5em;
 }
 
 #ptn{
