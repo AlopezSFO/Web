@@ -129,10 +129,21 @@ a{
 	font-weight: normal;
 	text-decoration: underline;
 	color: white;
+
 }
 
 ul{
 	 font-family: Raleway, sans-serif;
+
+}
+
+#cntc{
+	font-family: Raleway, sans-serif;
+	font-weight: normal;
+	text-decoration: underline;
+	color: black;
+	margin-left:0em;
+	margin-right: 2em;
 
 }
 
@@ -278,6 +289,19 @@ ul{
 }
 #intro{
 	margin: 3% 20% 10% 20%;
+}
+
+#contacts{
+	margin: 3% 20% 10% 20%;
+}
+
+#email{
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+			-moz-box-shadow: 10px 10px 5px #ccc; 
+	-webkit-box-shadow: 10px 10px 5px #ccc; 
+	box-shadow: 10px 10px 5px #ccc;
 }
 
 #ptn{
